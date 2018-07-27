@@ -9,3 +9,5 @@ for i in range(n):
     passwords+=random.choice(chars)
 
   print(passwords)
+
+input("   Press any key to exit !!! ")
